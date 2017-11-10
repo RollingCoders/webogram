@@ -189,7 +189,7 @@
 	"changelog_modal_header_recent_updates_md": "Recent updates in **Telegram Universal for Windows 10 Web**",
 	"changelog_modal_header_new_updates_md": "**Telegram Universal for Windows 10 Web** has been updated!",
 	"changelog_modal_title_current_version": "current version",
-	"changelog_modal_full_description_md": " free messaging app based on Telegram Universal for Windows 10 API for speed and security.\n\nThis software is licensed under GNU GPL version 3.",
+	"changelog_modal_full_description_md": " free messaging app based on Telegram Universal for Windows 10 API for speed and security.\n\nThis software is licensed under GNU GPL version 3.\n this version is provided by Rolling Coders, you can find our fork of telegram web here :  https://github.com/RollingCoders/webogram \n the original telegram Source code is available here : https://github.com/zhukov/webogram",
 	"changelog_modal_changelog_link": "Changelog",
 	"changelog_app_version": "Version {version}",
 
